@@ -19,6 +19,6 @@
 <body>
   <a class="bar" href="ensdegen.eth.limo">Bar 1</a>
   <a class="bar" href="photos.ensdegen.eth">Bar 2</a>
-  <a class="bar" href="google">Bar 3</a>
+  <a class="bar" href="google.com">Bar 3</a>
 </body>
 </html>
